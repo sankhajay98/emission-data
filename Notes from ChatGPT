@@ -1,0 +1,19 @@
+Notes from ChatGPT
+
+Create Virtual environment using
+
+python3 -m venv venv
+
+Activate environment using
+
+source venv/bin/activate
+
+install required packages using
+
+pip install pandas openpyxl
+
+
+view active packages using
+
+pip freeze > packages.txt
+
